@@ -19,12 +19,6 @@
     <Filter Include="Header Files\Compressor">
       <UniqueIdentifier>{b837d450-c684-4e6f-a059-b7cb83f6e1b0}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\Decompressor">
-      <UniqueIdentifier>{b3f52e57-2edd-43c9-815c-8fc5878477fb}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Header Files\Decompressor">
-      <UniqueIdentifier>{85b05af9-3259-49fd-800f-88e98754e9af}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.c">
