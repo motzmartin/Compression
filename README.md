@@ -7,14 +7,14 @@ Lien vers la documentation technique : [Documentation Technique](https://docs.go
 
 # Captures d'écran
 
-Image original :<br>
+<u>Image original :</u><br>
 
 ![image](https://github.com/user-attachments/assets/429f6c28-1dd1-4189-9f3f-5f91ce0b4482)
 
-Effets de la compression :<br>
+<u>Effets de la compression :</u><br>
 
 ![image](https://github.com/user-attachments/assets/6b2c6180-0568-4cc2-a23d-7ff6cf41adbb)
 
-Logs du programme :<br>
+<u>Logs du programme :</u><br>
 
 ![image](https://github.com/user-attachments/assets/6c7ea9a0-0181-496a-86f4-0c108a8a5722)
