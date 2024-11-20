@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Compressor">
+      <UniqueIdentifier>{8dcbac7d-c4f7-4ec4-868b-d19a83268fe4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Compressor">
+      <UniqueIdentifier>{b837d450-c684-4e6f-a059-b7cb83f6e1b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Decompressor">
+      <UniqueIdentifier>{b3f52e57-2edd-43c9-815c-8fc5878477fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Decompressor">
+      <UniqueIdentifier>{85b05af9-3259-49fd-800f-88e98754e9af}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Compressor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Blocks.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="DCT2.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="Quantization.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="RLE.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="Color.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="Zigzag.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="Decompressor.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sampling.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+    <ClCompile Include="Padding.c">
+      <Filter>Source Files\Compressor</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Compressor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Blocks.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="DCT2.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="Quantization.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="RLE.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="Color.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="Zigzag.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="Decompressor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sampling.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+    <ClInclude Include="Padding.h">
+      <Filter>Header Files\Compressor</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
