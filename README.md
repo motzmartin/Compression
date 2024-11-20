@@ -11,7 +11,7 @@ Lien vers la documentation technique : [Documentation Technique](https://docs.go
 
 ![image](https://github.com/user-attachments/assets/429f6c28-1dd1-4189-9f3f-5f91ce0b4482)
 
-<ins>Image compressée</ins><br>
+<ins>Image compressée et restituée</ins><br>
 
 ![image](https://github.com/user-attachments/assets/6b2c6180-0568-4cc2-a23d-7ff6cf41adbb)
 
