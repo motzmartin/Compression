@@ -1,7 +1,6 @@
 # Compression d'image (JPEG)
 
-Ce projet a pour objectif de démontrer le processus de compression et de restitution d'une image.
-
+Ce projet a pour objectif de démontrer le processus de compression et de restitution d'une image.  
 Il vise à reproduire le fonctionnement du format JPEG, avec quelques différences notables.
 
 Lien vers la documentation technique : [Documentation Technique](https://docs.google.com/document/d/1eO6T6d_AY3vQ8w9KEwIuldRbvivYMZ0a5jS3wjoaJx8/edit?usp=sharing)
