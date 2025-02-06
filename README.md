@@ -15,6 +15,6 @@ Lien vers la documentation technique : [Documentation Technique](https://docs.go
 
 ![image](https://github.com/user-attachments/assets/6b2c6180-0568-4cc2-a23d-7ff6cf41adbb)
 
-### Logs du programme
+### Sortie du programme
 
 ![image](https://github.com/user-attachments/assets/6c7ea9a0-0181-496a-86f4-0c108a8a5722)
